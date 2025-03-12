@@ -1,1 +1,3 @@
 # App-Calculadora
+ 
+# Esta es una app de calculadora para Android creada con Kotlin y Android Studio. Es muy útil ya que algunos celulares no vienen con la app de calculadora instalada y aunque hay muchas ya en la tienda, hay veces en que no son de nuestro agrado visualmente hablando. Al instalar tu propia app, puedes editar los colores, botones y lo que uno quiera para hacerla más agradable. Es capaz de hacer operaciones básicas como sumas, restas, multiplicaciones y divisiones. 
